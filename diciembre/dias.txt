@@ -1,0 +1,7 @@
+lunes 4
+martes 5
+miercoles 5
+jueves 5
+viernes 4
+sabado 4
+domingo 4
